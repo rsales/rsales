@@ -11,7 +11,7 @@ Hello! I'm a **UI Designer and Front-End** developer based in Curitiba, Paraná.
 
 - Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salescreations/)
 - Launch a real product with [Golang](https://golang.org/) in API and [React Native](https://reactnative.dev/) for app
-- Improve my [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) and [VueJS](https://vuejs.org/) Knowledge
+- Improve my [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [VueJS](https://vuejs.org/) and [Golang](https://golang.org/) Knowledge
 
 ## 🤓 Knowledge
 
