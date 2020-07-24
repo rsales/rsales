@@ -16,7 +16,7 @@ Hello! I'm a **UI Designer and Front-End** developer based in Curitiba, Paraná.
 ## 🤓 Knowledge
 
 **Languages:** 
-[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) and [Ruby](https://www.ruby-lang.org/pt/).
+[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [Ruby](https://www.ruby-lang.org/pt/) and [Golang](https://golang.org/).
 
 **Front-end:**
 HTML, CSS, JavaScript, [SCSS](https://sass-lang.com/guide), [VueJS](https://vuejs.org/), [Nuxt](https://nuxtjs.org/).
