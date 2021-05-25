@@ -22,10 +22,10 @@ Hello! I'm a **UI Designer and Front-End** developer based in Curitiba, Paraná.
 HTML, CSS, JavaScript, [SCSS](https://sass-lang.com/guide), [VueJS](https://vuejs.org/), [Nuxt](https://nuxtjs.org/).
 
 **Back-end:**
-[Ruby on Rails](https://rubyonrails.org/), [NodeJS](https://nodejs.org/en/), 
+[Ruby on Rails](https://rubyonrails.org/) and [NodeJS](https://nodejs.org/en/).
 
 **CMS:**
-[Contentful CMS](https://www.contentful.com/) and [Storyblok](https://www.storyblok.com/),
+[Contentful CMS](https://www.contentful.com/) and [Storyblok](https://www.storyblok.com/).
 
 **Operational System:**
 MacOS, Windows, Ubuntu.
