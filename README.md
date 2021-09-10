@@ -7,7 +7,7 @@ Hello! I'm a **UI Designer and Front-End** developer based in Curitiba, Paraná.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsales&show_icons=true&theme=dracula)
 
-## 🔭 Goals for 2020
+## 🔭 Goals for 2021
 
 - Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salescreations/)
 - Launch a real product with [Golang](https://golang.org/) in API and [React Native](https://reactnative.dev/) for app
