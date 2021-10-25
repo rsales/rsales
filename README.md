@@ -5,8 +5,6 @@
 ## 🖖🏼 About Me
 Hello! I'm a **UI Designer and Front-End** developer based in Curitiba, Paraná. I'm currently working remotely on [Abler](https://github.com/Abler-Recrutamento-Digital) and [Sales//Creations](https://github.com/SalesCreations), helping create energy intelligence.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsales&show_icons=true&theme=dracula)
-
 ## 🔭 Goals for 2021
 
 - Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salescreations/)
