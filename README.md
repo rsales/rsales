@@ -23,7 +23,7 @@ HTML, CSS, JavaScript, [SCSS](https://sass-lang.com/guide), [VueJS](https://vuej
 [Ruby on Rails](https://rubyonrails.org/) and [NodeJS](https://nodejs.org/en/).
 
 **CMS:**
-[Contentful CMS](https://www.contentful.com/) and [Storyblok](https://www.storyblok.com/).
+[Storyblok](https://www.storyblok.com/), [Contentful](https://www.contentful.com/) and [Wordpress](https://wordpress.com/)
 
 **Operational System:**
 MacOS, Windows, Ubuntu.
