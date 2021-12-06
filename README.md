@@ -28,7 +28,4 @@ HTML, CSS, JavaScript, [SCSS](https://sass-lang.com/guide), [VueJS](https://vuej
 **Operational System:**
 MacOS, Windows, Ubuntu.
 
-**Versioning:**
-Git, GitHub, Bitbucket.
-
 Made with 💙 by [salesunited](https://www.instagram.com/salesunited/).
