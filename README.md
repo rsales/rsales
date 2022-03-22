@@ -5,7 +5,7 @@
 ## 🖖🏼 About Me
 Hello! I'm a **Product Designer and Front-End developer** based in Curitiba, Paraná. I'm currently working remotely on [Sales//Creations](https://github.com/SalesCreations), helping create energy intelligence.
 
-## 🔭 Goals for 2021
+## 🔭 Goals for year
 
 - Produce more posts for [Instagram Sales//Creations](https://www.instagram.com/salescreations/)
 - Launch a real product with [Golang](https://golang.org/) in API and [React Native](https://reactnative.dev/) for app
